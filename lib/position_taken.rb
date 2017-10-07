@@ -8,5 +8,6 @@ elsif board[index]==
   false
 end
 else
+end
   
 end
