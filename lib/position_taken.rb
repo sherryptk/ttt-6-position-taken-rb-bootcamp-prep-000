@@ -9,5 +9,5 @@ elsif board[index]==
 end
 else
 end
-  
+
 end
